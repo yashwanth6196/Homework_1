@@ -9,11 +9,12 @@ editor: visual
 
 **The `iris` dataset** is a built-in dataset in R that contains information about 150 iris flowers, split evenly across three species: *setosa*, *versicolor*, and *virginica*. It records flower measurements in centimeters, including:
 
--   Sepal.Length
--   Sepal.Width
--   Petal.Length
--   Petal.Width
--   Species
+- **Sepal.Length**  
+- **Sepal.Width**  
+- **Petal.Length**  
+- **Petal.Width**  
+- **Species**
+
 
 We will visualize the distribution of **Sepal Length** across different species using a boxplot.
 
