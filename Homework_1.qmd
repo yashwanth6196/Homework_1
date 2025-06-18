@@ -36,6 +36,8 @@ The boxplot below shows how Sepal Length varies across different iris species:
 #| echo: false
 #| warning: false
 #| message: false
+#| fig-cap: "Boxplot showing Sepal Length for each iris species"
+
 
 boxplot(Sepal.Length ~ Species, data = iris,
         main = "Sepal Length by Species",
